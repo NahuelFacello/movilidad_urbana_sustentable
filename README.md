@@ -1,4 +1,4 @@
-# Uso de Ecobiic en la Ciudad de Buenos Aires
+# Uso de Ecobici en la Ciudad de Buenos Aires
 
 
 El sistema **Ecobici** en la Ciudad de Buenos Aires genera un volumen masivo de datos transaccionales diariamente. Más allá de ser un servicio de transporte, representa un ecosistema logístico complejo donde la eficiencia operativa (disponibilidad de bicicletas) dicta la calidad del servicio y la satisfacción del usuario.
